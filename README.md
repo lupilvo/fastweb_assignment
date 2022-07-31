@@ -1,4 +1,4 @@
-# Fastweb_assessment
+# Fastweb_Assignment
 
 ## Riproducibilità del notebook
 Per la corretta esecuzione del notebook è consigliato utilizzare il kernel **fast_env** basato sull'omonimo ambiente virutale appositamente creato per questo assessment.
